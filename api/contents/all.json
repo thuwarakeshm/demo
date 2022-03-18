@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-03-18T14:26:32.340530Z",
+      "created": "2022-03-18T14:43:44.119614Z",
       "format": null,
-      "last_modified": "2022-03-18T14:25:16.004321Z",
+      "last_modified": "2022-03-18T14:42:30.721624Z",
       "mimetype": null,
       "name": "cufflinks-example.ipynb",
       "path": "cufflinks-example.ipynb",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2022-03-18T14:26:32.340530Z",
+      "created": "2022-03-18T14:43:44.119614Z",
       "format": null,
-      "last_modified": "2022-03-18T14:26:29.876389Z",
+      "last_modified": "2022-03-18T14:43:42.455482Z",
       "mimetype": "text/markdown",
       "name": "README.md",
       "path": "README.md",
@@ -25,9 +25,9 @@
       "writable": true
     }
   ],
-  "created": "2022-03-18T14:26:32.340530Z",
+  "created": "2022-03-18T14:43:44.119614Z",
   "format": "json",
-  "last_modified": "2022-03-18T14:26:32.340530Z",
+  "last_modified": "2022-03-18T14:43:44.119614Z",
   "mimetype": null,
   "name": "",
   "path": "",
